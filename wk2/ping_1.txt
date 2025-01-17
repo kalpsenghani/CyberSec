@@ -1,0 +1,17 @@
+root@comp3134Winter2024:~# ping nike.com -w 10
+PING nike.com (3.164.92.49) 56(84) bytes of data.
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=1 ttl=249 time=2.43 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=2 ttl=249 time=1.55 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=3 ttl=249 time=1.53 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=4 ttl=249 time=1.52 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=5 ttl=249 time=1.58 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=6 ttl=249 time=1.52 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=7 ttl=249 time=1.55 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=8 ttl=249 time=1.55 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=9 ttl=249 time=1.52 ms
+64 bytes from server-3-164-92-49.yto53.r.cloudfront.net (3.164.92.49): icmp_seq=10 ttl=249 time=1.54 ms
+
+--- nike.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 1.515/1.629/2.428/0.267 ms
+root@comp3134Winter2024:~#

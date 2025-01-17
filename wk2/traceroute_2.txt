@@ -1,0 +1,13 @@
+C:\Users\KALP SENGHANI>tracert apple.ca
+
+Tracing route to apple.ca [17.253.144.10]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  10.4.128.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     3 ms     4 ms     3 ms  www.brkgls.com [17.253.144.10]
+
+Trace complete.
